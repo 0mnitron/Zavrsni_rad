@@ -5,8 +5,6 @@
 
 * Wireless module CH340 NodeMcu V3 Lua WIFI Internet of Things development board
     * [V3 Nodemcu-CH340](https://www.aliexpress.com/item/32665100123.html?spm=a2g0o.productlist.0.0.5cc463757vLbA1&algo_pvid=0f02beb2-816e-447d-b91c-873c435693a7&algo_expid=0f02beb2-816e-447d-b91c-873c435693a7-0&btsid=2100bdf016060538203684009e286e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
-* ESP32 Development Board WiFi+Bluetooth
-    * [ESP-32 38Pin](https://www.aliexpress.com/item/32959541446.html?spm=a2g0o.productlist.0.0.1dfa133fyRZNKY&algo_pvid=872c21da-d723-49b2-927f-9dfabce19211&algo_expid=872c21da-d723-49b2-927f-9dfabce19211-1&btsid=0b0a0ac216060542075921436ef105&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 
 ## Zrak - kvaliteta
