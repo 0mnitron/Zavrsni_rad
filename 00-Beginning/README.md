@@ -29,3 +29,13 @@
 # PMS5003
 
 [koristan link 1](https://how2electronics.com/interfacing-pms5003-air-quality-sensor-arduino/)
+
+<br>
+
+<hr>
+
+# Vjetar
+
+#### Detektor magneta
+
+*   https://components101.com/a3144-hall-effect-sensor
