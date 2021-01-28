@@ -7,7 +7,7 @@
     * [V3 Nodemcu-CH340](https://www.aliexpress.com/item/32665100123.html?spm=a2g0o.productlist.0.0.5cc463757vLbA1&algo_pvid=0f02beb2-816e-447d-b91c-873c435693a7&algo_expid=0f02beb2-816e-447d-b91c-873c435693a7-0&btsid=2100bdf016060538203684009e286e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 
-## Zrak - kvaliteta
+## 1 Zrak - kvaliteta
 
 * CO2 sensor module
     * [MH-Z19B NDIR](https://www.aliexpress.com/item/4000212024923.html?spm=a2g0o.productlist.0.0.1dce1cd82xflAd&algo_pvid=dbb7f88f-37f6-4a7a-8fe4-205ec7e7523e&algo_expid=dbb7f88f-37f6-4a7a-8fe4-205ec7e7523e-1&btsid=2100bb4a16053956526828498ee251&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) 
@@ -19,24 +19,24 @@
     * [MQ-135](https://www.aliexpress.com/item/32547745710.html?spm=a2g0o.productlist.0.0.7e01139b8deBkY&algo_pvid=9d999360-cde6-4dab-8593-17b1290986d6&algo_expid=9d999360-cde6-4dab-8593-17b1290986d6-0&btsid=2100bddb16053962904015920ee386&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 
-## Atmosfera - temperatura, vlaga, tlak
+## 2 Atmosfera - temperatura, vlaga, tlak
 
 * [BME280 3.3V](https://www.aliexpress.com/item/32849462236.html?spm=a2g0o.productlist.0.0.1d341b5b04CpQk&algo_pvid=fb1dc50a-e533-4327-a8c5-cff872b68bde&algo_expid=fb1dc50a-e533-4327-a8c5-cff872b68bde-0&btsid=2100bdcf16053967085595679ea4c6&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)  
     * [link 2](https://www.aliexpress.com/item/32853751253.html?spm=a2g0o.detail.1000023.1.5f5a11072frzgn)
 * [BME680](https://www.aliexpress.com/item/4000049700826.html?spm=a2g0o.productlist.0.0.4c8f1d4bJWVAhb&algo_pvid=1edde55a-9656-4287-a64b-94db0f53ee37&algo_expid=1edde55a-9656-4287-a64b-94db0f53ee37-0&btsid=0b0a050116053968699261587ededa&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 
-## Senzor buke
+## 3 Senzor buke
 
 * MAX4466
     * [link 1](https://www.aliexpress.com/item/32752086620.html?spm=a2g0o.productlist.0.0.6a41fef0zKo15A&algo_pvid=4dff4ff1-f5b9-4a2c-8d89-ac28afbf10c5&algo_expid=4dff4ff1-f5b9-4a2c-8d89-ac28afbf10c5-2&btsid=0b0a050116060529817701068e3002&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
     * [link 2](https://www.aliexpress.com/item/32607495483.html?spm=a2g0o.productlist.0.0.6a41fef0zKo15A&algo_pvid=4dff4ff1-f5b9-4a2c-8d89-ac28afbf10c5&algo_expid=4dff4ff1-f5b9-4a2c-8d89-ac28afbf10c5-1&btsid=0b0a050116060529817701068e3002&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 
-## Padaline
+## 4 Padaline
 
 
-## Vjetar
+## 5 Vjetar
 
 * Brzina vjetra
 * Smjer vjetra
