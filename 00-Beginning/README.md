@@ -1,3 +1,5 @@
+* [kada je potrebno dodatnih I2C pinova - Software I2C](https://playground.arduino.cc/Main/SoftwareI2CLibrary/)
+
 **Serial.print(** "Tekst **\n**" **);** je isto što i **Serial.println(** "Tekst" **);**
 
 **Serial.println(F(** "Tekst" **));** - [Koristi se za ispis stringa koji se neće mijenjati](https://www.baldengineer.com/arduino-f-macro.html)
