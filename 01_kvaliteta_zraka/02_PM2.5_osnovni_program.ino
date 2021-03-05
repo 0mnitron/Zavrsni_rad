@@ -1,4 +1,9 @@
 /* Test sketch for Adafruit PM2.5 sensor with UART */
+
+// pin1 - +5V
+// pin2 - GND
+// pin5 - D5
+
 // https://learn.adafruit.com/pm25-air-quality-sensor?view=all
  
 #include "Adafruit_PM25AQI.h"
