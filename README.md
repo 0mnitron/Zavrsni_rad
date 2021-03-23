@@ -1,6 +1,42 @@
 # Metereološke postaje s Arduinom
 <hr>
 
+### Senzori
+* [x] Temperatura
+* [x] Vlaga
+* [x] Tlak
+* [x] PM2.5 
+* [x] CO₂
+* [ ] Svjetlina
+* [ ] Padaline
+* [ ] Brzina vjetra
+* [ ] Smjer vjetra
+* [ ] Buka
+
+### Obrada podataka i prikaz
+* [ ] Uno
+* [x] Uno -> NodeMCUv3
+* [x] NodeMCUv3 -> Server
+* [ ] Server
+
+### 3D
+* [ ] kutija
+* [ ] vjetar
+* [ ] padaline
+
+### Pisani dio
+* [ ] Naslovna stranica
+* [ ] *Sadržaj*
+* [ ] Predgovor 
+* [ ] Uvod
+* [ ] Teorijski dio 
+* [ ] Tehničko-tehnološki dio
+* [ ] Zaključak
+
+<hr>
+
+<br>
+
 ## Mikroupravljač
 
 * Wireless module CH340 NodeMcu V3 Lua WIFI Internet of Things development board
