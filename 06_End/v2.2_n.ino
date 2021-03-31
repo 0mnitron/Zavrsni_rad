@@ -41,8 +41,8 @@ void loop() {
   // ako je Arduino Uno poslao neke podatke
   if(Uno.available()){
     
-    // osigurana veličina prostora za podatke je 400 byta  -> prilagoditi poslije
-    StaticJsonDocument<400> doc;
+    // osigurana veličina prostora za podatke je 550 byta  -> prilagoditi poslije
+    StaticJsonDocument<550> doc;
     
     // provjeriti da li je deserijalizacija uspješno obavljena
     DeserializationError err = deserializeJson(doc, Uno);  
