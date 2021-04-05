@@ -44,6 +44,7 @@
 ### NodeMCU v3 ([Wireless module CH340 NodeMcu V3 Lua WIFI Internet of Things development board](https://www.aliexpress.com/item/32665100123.html?spm=a2g0o.productlist.0.0.5cc463757vLbA1&algo_pvid=0f02beb2-816e-447d-b91c-873c435693a7&algo_expid=0f02beb2-816e-447d-b91c-873c435693a7-0&btsid=2100bdf016060538203684009e286e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_))
 
    * File -> Preferences -> Additional Boards Manager URLs: -> http://arduino.esp8266.com/stable/package_esp8266com_index.json
+   * Tools -> Board -> Boards Manager -> esp8266 -> Install
 
 <hr>
 
