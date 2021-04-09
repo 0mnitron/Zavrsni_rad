@@ -58,11 +58,11 @@ void loop() {
   if(WiFi.status()== WL_CONNECTED && !Q.isEmpty()){
     HTTPClient http;
     http.begin(serverName);
+    http.addHeader("Content-Type", "application/json");
     while(!Q.isEmpty()){
       char buffer_data[DATA_SIZE];
       Q.pop((uint8_t *)&buffer_data);
       Serial.print("\nPopped ");
-      http.addHeader("Content-Type", "application/json");
       http.POST(buffer_data);
     }
     http.end();
