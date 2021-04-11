@@ -86,6 +86,14 @@
 * Smjer vjetra
 
 
+## Vrijeme
+
+* [DS3231](https://www.aliexpress.com/item/4000004876793.html?spm=a2g0o.productlist.0.0.5c7e47dd24vbVt&algo_pvid=22c23d4e-6681-44ab-86a7-5395f934ed4a&algo_expid=22c23d4e-6681-44ab-86a7-5395f934ed4a-0&btsid=0b0a555516181379326868154e82b9&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) 
+* [Link 1](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-real-time-clock-module-ds3231-bc90fe)
+* [Link 2](http://gilles.thebault.free.fr/spip.php?article53)
+* [Link 3](https://lastminuteengineers.com/ds3231-rtc-arduino-tutorial/)
+
+
 ## Ostalo
 
 * Žice
