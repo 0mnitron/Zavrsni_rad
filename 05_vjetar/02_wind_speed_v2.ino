@@ -40,7 +40,7 @@ void wind_speedf(){
   }
 
   if(n != 0){
-    int period = time_end - time_beg;  // ms
+    unsigned long period = time_end - time_beg;  // ms
     float frequency = n / period * 1000;  // ms -> s (Hz)
     wind_speed = radius * 2 * 3.1416 * frequency;  // m/s
     wind_speed = wind_speed * 3.6;  // km/h 
