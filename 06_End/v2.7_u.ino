@@ -198,8 +198,8 @@ void loop(){
   doc["brightness"] = svjetlina;
 
   doc["s_temp"] = bme280.readTemperature();
-  doc["s_temp"] = bme280.readPressure() / 100.0F;
-  doc["s_temp"] = bme280.readHumidity();
+  doc["s_pressure"] = bme280.readPressure() / 100.0F;
+  doc["s_hum"] = bme280.readHumidity();
   serializeJson(doc, NodeMCU);
   NodeMCU.end();
 
