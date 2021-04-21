@@ -75,8 +75,8 @@ RTC_DS3231 rtc;
 
 
 void setup() {
-//  Serial.begin(115200);
-//  while (!Serial) continue;
+  //Serial.begin(115200);
+  //while (!Serial) continue;
 
   // PM2.5
 //  Serial.println("Adafruit PMSA003I Air Quality Sensor");
@@ -173,8 +173,10 @@ void loop(){
    
   // NodeMCU
   NodeMCU.begin(115200);
-  StaticJsonDocument<280> doc;
-  doc["time"] = now.toString("YYYY-MM-DDThh:mm:ss");
+  StaticJsonDocument<300> doc;
+  doc["wsid"] = "hr.10000.0";
+  
+  doc["time"] = now.unixtime();
   
   if(aqi_reading){
     doc["pm10"] = data.pm10_env;
