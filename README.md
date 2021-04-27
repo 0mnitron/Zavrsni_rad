@@ -1,5 +1,6 @@
-# [Meteorološka postaja s Arduinom](http://65.21.1.49:5000/data)
+# [Meteorološka postaja s Arduinom](http://65.21.1.49:5000/data) - -  [Server](http://65.21.1.49/)
 <hr>
+
 
 ### Senzori
 * [x] Temperatura
