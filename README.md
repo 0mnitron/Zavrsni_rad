@@ -8,31 +8,31 @@
 * [x] Tlak
 * [x] PM2.5 
 * [x] CO₂
-* [ ] Svjetlina
+* [x] Svjetlina
 * [ ] Padaline
 * [ ] Brzina vjetra
 * [ ] Smjer vjetra
 * [ ] Buka
 
 ### Obrada podataka i prikaz
-* [ ] Uno
+* [x] Uno
 * [x] Uno -> NodeMCUv3
 * [x] NodeMCUv3 -> Server
-* [ ] Server
+* [x] Server
 
 ### 3D
-* [ ] kutija
+* [x] kutija
 * [ ] vjetar
 * [ ] padaline
 
 ### Pisani dio
-* [ ] Naslovna stranica
-* [ ] *Sadržaj*
+* [x] Naslovna stranica
+* [x] *Sadržaj*
 * [ ] Predgovor 
-* [ ] Uvod
-* [ ] Teorijski dio 
-* [ ] Tehničko-tehnološki dio
-* [ ] Zaključak
+* [x] Uvod
+* [x] Teorijski dio 
+* [x] Tehničko-tehnološki dio
+* [x] Zaključak
 
 <hr>
 
